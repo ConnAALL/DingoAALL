@@ -1,0 +1,4 @@
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/lib/pkgconfig/dingo_servo_interfacing.pc
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/lib/python3/dist-packages/dingo_servo_interfacing/__init__.py
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/share/dingo_servo_interfacing/cmake/dingo_servo_interfacingConfig.cmake
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/share/dingo_servo_interfacing/cmake/dingo_servo_interfacingConfig-version.cmake

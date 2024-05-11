@@ -1,0 +1,7 @@
+set(dingo_control_SETUP_PY_SETUP_MODULE "distutils.core")
+set(dingo_control_SETUP_PY_VERSION "0.0.0")
+set(dingo_control_SETUP_PY_SCRIPTS "")
+set(dingo_control_SETUP_PY_PACKAGES "dingo_control")
+set(dingo_control_SETUP_PY_PACKAGE_DIRS "src/dingo_control")
+set(dingo_control_SETUP_PY_MODULES "")
+set(dingo_control_SETUP_PY_MODULE_DIRS "")

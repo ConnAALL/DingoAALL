@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_utilities/lib/pkgconfig/dingo_utilities.pc

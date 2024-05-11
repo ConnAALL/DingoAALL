@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_peripheral_interfacing/lib/pkgconfig/dingo_peripheral_interfacing.pc

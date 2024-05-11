@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_peripheral_interfacing/share/dingo_peripheral_interfacing/cmake/dingo_peripheral_interfacingConfig-version.cmake

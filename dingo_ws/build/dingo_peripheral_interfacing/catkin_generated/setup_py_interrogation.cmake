@@ -1,0 +1,7 @@
+set(dingo_peripheral_interfacing_SETUP_PY_SETUP_MODULE "distutils.core")
+set(dingo_peripheral_interfacing_SETUP_PY_VERSION "0.0.0")
+set(dingo_peripheral_interfacing_SETUP_PY_SCRIPTS "")
+set(dingo_peripheral_interfacing_SETUP_PY_PACKAGES "dingo_peripheral_interfacing")
+set(dingo_peripheral_interfacing_SETUP_PY_PACKAGE_DIRS "src/dingo_peripheral_interfacing")
+set(dingo_peripheral_interfacing_SETUP_PY_MODULES "")
+set(dingo_peripheral_interfacing_SETUP_PY_MODULE_DIRS "")

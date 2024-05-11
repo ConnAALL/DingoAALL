@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_control/share/gennodejs/ros/dingo_control/msg/Angle.js

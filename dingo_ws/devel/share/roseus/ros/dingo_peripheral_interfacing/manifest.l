@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_peripheral_interfacing/share/roseus/ros/dingo_peripheral_interfacing/manifest.l

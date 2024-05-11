@@ -1,0 +1,12 @@
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./setup.bash
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./setup.zsh
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./setup.sh
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./cmake.lock
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./local_setup.bash
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./local_setup.sh
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./local_setup.zsh
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./env.sh
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/./_setup_util.py
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/dingo/DingoQuadruped/dingo_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/dingo/DingoQuadruped/dingo_ws/devel
+install: false
+install_space: /home/dingo/DingoQuadruped/dingo_ws/install
+profile: default
+source_space: /home/dingo/DingoQuadruped/dingo_ws/src
+workspace: /home/dingo/DingoQuadruped/dingo_ws

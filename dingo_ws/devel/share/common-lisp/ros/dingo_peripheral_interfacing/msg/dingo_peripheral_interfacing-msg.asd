@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_peripheral_interfacing/share/common-lisp/ros/dingo_peripheral_interfacing/msg/dingo_peripheral_interfacing-msg.asd

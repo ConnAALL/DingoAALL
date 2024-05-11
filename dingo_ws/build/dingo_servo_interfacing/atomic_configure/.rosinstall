@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_servo_interfacing/setup.sh

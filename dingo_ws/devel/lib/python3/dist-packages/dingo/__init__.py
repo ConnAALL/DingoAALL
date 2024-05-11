@@ -1,0 +1,1 @@
+/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo/lib/python3/dist-packages/dingo/__init__.py

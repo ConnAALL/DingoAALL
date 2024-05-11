@@ -1,0 +1,8 @@
+prefix=/home/dingo/DingoQuadruped/dingo_ws/devel/.private/dingo_description
+
+Name: dingo_description
+Description: Description of dingo_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

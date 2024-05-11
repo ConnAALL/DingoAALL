@@ -1,0 +1,2 @@
+set(dingo_peripheral_interfacing_MESSAGE_FILES "/home/dingo/DingoQuadruped/dingo_ws/src/dingo_hardware_interfacing/dingo_peripheral_interfacing/msg/ElectricalMeasurements.msg")
+set(dingo_peripheral_interfacing_SERVICE_FILES "")
